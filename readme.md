@@ -106,7 +106,7 @@ Navigation bars by themselves aren't terribly interesting. In order to display t
 controls, you need to create a navigation bar item:
 
 ```
-var navigationBarItem = window.nativeControls.NavigationBarItem();
+var navigationBarItem = window.nativeControls.NavigationItem();
 navigationBarItem.title = "View Title";
 ```
 
